@@ -4,12 +4,12 @@ let imagecount = document.querySelector(".image-count"); //image
 let next = document.querySelector(".next"); //next button
 let prev = document.querySelector(".prev"); //prev button
 let arr = [
-  "/img/mihile.webp",
-  "/img/bw.webp",
-  "/img/dw.webp",
-  "/img/nw.webp",
-  "/img/tb.webp",
-  "/img/wa.webp",
+  "img/mihile.webp",
+  "img/bw.webp",
+  "img/dw.webp",
+  "img/nw.webp",
+  "img/tb.webp",
+  "img/wa.webp",
 ];
 let num = 0;
 
