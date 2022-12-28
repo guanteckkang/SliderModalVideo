@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.title {
+  margin: 30px auto;
+}
+.slider-container {
+  margin: 50px auto;
+  height: 70vh;
+}
+.image-count {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.image {
+  height: 450px;
+}
+button {
+  padding: 10px;
+}
